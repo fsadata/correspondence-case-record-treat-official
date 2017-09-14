@@ -1,0 +1,1 @@
+{"fields":[{"name":"DateReceived","title":"DateReceived","type":"string","format":"default","constraints":{"type":"http://www.w3.org/2001/XMLSchema#date","required":false}},{"name":"DateSent","title":"DateSent","type":"string","format":"default","constraints":{"type":"http://www.w3.org/2001/XMLSchema#string","required":false}}]}
